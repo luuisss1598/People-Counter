@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    background-color: #f4a261;
+}
+
+.container {
+    border: black 10px solid;
+    margin: 0 auto;
+    padding: 100px;
+    width: 500px;
+    margin-top: 250px;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+h2 {
+    font-size: 30px;
+    margin: 10px;
+}
+
+.text-center {
+    text-align: center;
+}
+
+#increment-btn, #decrement-btn, #save-btn {
+    font-size: 20px;
+}
+
+#save-el {
+    font-size: 30px;
+    margin-right: 240px;
+    margin-top: 10px;
+}
